@@ -34,7 +34,7 @@ Place the extracted `elliptic_txs_classes.csv`, `elliptic_txs_edgelist.csv`, and
 Ensure you have Python installed, then install the required dependencies:
 ```bash
 pip install pandas numpy torch torch-geometric scikit-learn
-
+```
 ## Progress & Results
 
 The project was developed iteratively, with each stage addressing a critical limitation identified in the previous model.
